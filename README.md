@@ -29,7 +29,7 @@ Launchy is a library for the Novation Launchpad MIDI devices, for the Rust progr
 - [ ] Launchpad Pro
 - [x] Launchpad MK2
 - [ ] Launchpad X
-- [ ] Launchpad Mini MK3
+- [x] Launchpad Mini MK3
 - [ ] Launchpad Pro MK2
 
 ## Canvas API
